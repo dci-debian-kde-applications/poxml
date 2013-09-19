@@ -1,0 +1,31 @@
+Source: poxml
+Section: kde
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Sune Vuorela <sune@debian.org>,
+           Fathi Boudra <fabo@debian.org>,
+           Modestas Vainius <modax@debian.org>,
+           George Kiagiadakis <kiagiadakis.george@gmail.com>,
+           Maximiliano Curia <maxy@debian.org>
+Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
+ cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.10.2),
+ libantlr-dev,
+ antlr
+Standards-Version: 3.9.4
+Homepage: http://www.kde.org/
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/poxml.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/poxml.git
+
+Package: poxml
+Architecture: any
+Section: devel
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: tools for translating DocBook XML files with Gettext
+ This is a collection of tools that facilitate translating DocBook XML
+ files using Gettext message files (PO files).
+ .
+ Also included are several command-line utilities for manipulating DocBook XML
+ files, PO files and PO template files.
+ .
+ This package is part of the KDE Software Development Kit module.
