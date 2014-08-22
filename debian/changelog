@@ -1,6 +1,7 @@
 poxml (4:4.14.0-1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Update build dependencies.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 06:14:06 +0200
 

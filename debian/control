@@ -12,7 +12,7 @@ Build-Depends: antlr,
                debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.11),
                kdelibs5-dev (>= 4:4.11),
-               libantlr-dev,
+               libgettextpo-dev,
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 XS-Testsuite: autopkgtest
