@@ -15,7 +15,6 @@ Build-Depends: antlr,
                libgettextpo-dev,
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
-XS-Testsuite: autopkgtest
 Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/poxml.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/poxml.git
