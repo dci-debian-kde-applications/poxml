@@ -1,6 +1,7 @@
 poxml (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Adding ECM as build-dep
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:42:36 +0000
 
