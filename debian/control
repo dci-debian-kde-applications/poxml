@@ -14,7 +14,8 @@ Build-Depends: antlr,
                kde-sc-dev-latest (>= 4:4.11),
                kdelibs5-dev,
                libgettextpo-dev,
-               pkg-kde-tools (>= 0.12)
+               pkg-kde-tools (>= 0.12),
+               qtbase5-dev
 Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: http://www.kde.org/
