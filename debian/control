@@ -13,6 +13,7 @@ Build-Depends: antlr,
                extra-cmake-modules,
                kde-sc-dev-latest (>= 4:4.11),
                kdelibs5-dev,
+               kdoctools-dev,
                libgettextpo-dev,
                pkg-kde-tools (>= 0.12),
                qtbase5-dev
