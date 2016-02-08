@@ -1,5 +1,2 @@
-#man files get moved by debhelper
-./usr/share/man/man1/po2xml.1
-./usr/share/man/man1/split2po.1
-./usr/share/man/man1/swappo.1
-./usr/share/man/man1/xml2pot.1
+# False positive
+usr/share/man/
