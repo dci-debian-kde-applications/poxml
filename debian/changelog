@@ -1,11 +1,11 @@
-poxml (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+poxml (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * New upstream release
   * Merged with Debian 
   * Adding required build-dependencies
   * Bumped /usr/share/pkg-kde-tools/qt-kde-team/2 to 3
 
- -- Clive Johnston <clivejo@aol.com>  Mon, 08 Feb 2016 19:00:36 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:34:53 +0100
 
 poxml (4:15.12.0-1) experimental; urgency=medium
 
