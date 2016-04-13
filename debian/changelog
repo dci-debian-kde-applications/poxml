@@ -1,3 +1,11 @@
+poxml (4:15.12.0-2~1.gbpecd81b) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @ecd81bec63407d089b8d7f9772a008b39ff24832 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 13:46:31 +0200
+
 poxml (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
