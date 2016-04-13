@@ -17,8 +17,8 @@ Build-Depends: antlr,
                qtbase5-dev
 Standards-Version: 3.9.8
 Homepage: http://www.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/poxml.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/poxml.git
+Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/kde-sc/poxml.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/kde-sc/poxml.git
 
 Package: poxml
 Architecture: any
