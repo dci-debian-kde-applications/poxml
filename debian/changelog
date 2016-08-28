@@ -6,6 +6,7 @@ poxml (4:16.08.0-0r1) UNRELEASED; urgency=medium
     directory as install place.
     - remove poxml.install, no more used now
   * Remove not-installed file, no more needed now.
+  * Remove unused antlr build dependency.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 08:01:33 +0200
 
