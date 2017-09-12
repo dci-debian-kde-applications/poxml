@@ -6,14 +6,14 @@ Uploaders: Sune Vuorela <sune@debian.org>,
            Fathi Boudra <fabo@debian.org>,
            Modestas Vainius <modax@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.7.0~),
-               libkf5doctools-dev,
                libgettextpo-dev,
+               libkf5doctools-dev,
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev
+               qtbase5-dev,
 Standards-Version: 4.1.0
 Homepage: http://www.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/poxml.git
