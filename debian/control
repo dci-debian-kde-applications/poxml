@@ -23,6 +23,8 @@ Package: poxml
 Architecture: any
 Section: devel
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: tools for translating DocBook XML files with Gettext
  This is a collection of tools that facilitate translating DocBook XML
  files using Gettext message files (PO files).
